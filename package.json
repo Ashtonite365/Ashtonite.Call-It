@@ -1,0 +1,19 @@
+{
+  "$schema": "https://raw.githubusercontent.com/AA-Franz/OD_SpectatorRegistry/refs/heads/main/src/package.schema.json",
+  "name": "ashtonite.callit",
+  "displayName": "Ashtonite.Call It",
+  "version": "1.0.6",
+  "description": "Unofficial points betting minigame for the Orion Drift spectator camera: call live Driftball moments and track your balance and streak on screen. Not affiliated with or endorsed by Another Axiom.",
+  "main": "Ashtonite.Call It.luau",
+  "keywords": [
+    "driftball",
+    "minigame",
+    "betting",
+    "spectator",
+    "camera"
+  ],
+  "author": "Ashtonite (Ashtonite365)",
+  "license": "GPL-3.0-only",
+  "defaultKeybind": "",
+  "url": "https://github.com/Ashtonite365/Ashtonite.Call-It"
+}
